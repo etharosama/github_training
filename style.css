@@ -1,6 +1,8 @@
 h1{
     color: brown;
+    font: 300;
 }
 body{
     background-color: aquamarine;
+    border-color: blueviolet;
 }
