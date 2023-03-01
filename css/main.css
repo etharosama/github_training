@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Tilt Neon', cursive;
+    justify-content: center;
+    align-items: center;  
+    background-color: black;
+
+    text-align: center;
+    margin :0px;
+    height: 100vh;
+}
+h1 {
+    color: rgb(255, 252, 247);
+    text-transform: uppercase;
+}
+.header {
+    color: rgb(216, 198, 175);
+
+}
+body {
+    margin :0px;
+    
+}
+.image{
+    height: 30vh;
+}
